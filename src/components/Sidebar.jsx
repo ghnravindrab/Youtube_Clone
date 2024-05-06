@@ -3,6 +3,8 @@ import { Stack } from "@mui/material";
 
 import { categories } from "../utils/constants";
 
+// New Comment added
+
 const Categories = ({ selectedCategory, setSelectedCategory }) => (
   <Stack
     direction="row"
